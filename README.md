@@ -2,12 +2,12 @@
 
 ## Te raden woord
 
-|k|a||a|s|
-|-|-|-|-|
-|1|2|3|4|
+|k|a||a|s||.|
+|-|-|-|-||-|
+|1|2|3|4|5|
 
 ## Score
-![gallow](./images/1.png)
+![gallow](./images/3.png)
 
 ## Beurten
 1. a - goed!
